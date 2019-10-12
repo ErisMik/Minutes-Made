@@ -4,18 +4,12 @@
 
 # Running Locally
 
-### Setup
-
-Build packages
-
-```
-sudo docker-compose build
-```
-
-### Running
+### Running FAST
 
 Run all services locally
 
 ```
 sudo docker-compose up
 ```
+
+This is me adding a line to the readme
